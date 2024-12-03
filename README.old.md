@@ -1,1 +1,0 @@
-# Medcadre Credentialing UI React
